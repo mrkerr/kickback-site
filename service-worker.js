@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mrkerr/kickback-site/precache-manifest.c1f4e7d62e8cfe9958424257f9446bf6.js"
+  "/mrkerr/kickback-site/precache-manifest.79eb32db5155db0c6ee710b934636183.js"
 );
 
 self.addEventListener('message', (event) => {
