@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e99fdb85f580efc8df10bf4dd06a6f10",
+    "revision": "82f25dc22738b66ae4a473158f80d597",
     "url": "/mrkerr/kickback-site/index.html"
   },
   {
