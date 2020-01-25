@@ -7,9 +7,9 @@ import GlitchClip from 'react-glitch-effect/core/Clip';
 
 
 const HomeTop = () => (
-  <div class='home-grid-wrapper'>
+  <div className='home-grid-wrapper'>
     <div className='title-wrapper' id='title-div'>
-      <div class='background-title-text-huge'>KICK<br/>BACK</div>
+      <div className='background-title-text-huge'>KICK<br/>BACK</div>
       <div className='mobile-clock'>
       <GlitchClip duration={'3s'}><h1><Clock format="HH:mm:ss" ticking={true} interval={1000}/></h1></GlitchClip>
       </div> 
@@ -18,7 +18,7 @@ const HomeTop = () => (
       <div className='section-button'><GlitchClip onHover={true} duration={'3s'} iterationCount={'5'}>VIDEO</GlitchClip></div>
       <div className='section-button'><GlitchClip onHover={true} duration={'3s'} iterationCount={'5'}>DESIGN</GlitchClip></div>
       <div className='section-button'><GlitchClip onHover={true} duration={'3s'} iterationCount={'5'}>CLOTHING</GlitchClip></div>
-      <div className='location'>springfeld il</div>
+      <div className='location rotate'>springfeld il</div>
     </div>
   </div>
 );

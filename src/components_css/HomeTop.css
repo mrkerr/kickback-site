@@ -31,8 +31,18 @@
 }
 
 .location{
+  color: var(--text-blue);
   font-size: 3vh;
   margin-top: 38vh;
+  margin-right: 3.5vh;
+}
+
+.rotate {
+  transform-origin: bottom right;
+  transform: rotate(80deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg)
+
 }
 
 .mobile-clock{
