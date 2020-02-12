@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4ab7a3d1b881c3f5d67dd421d4b7d01",
+    "revision": "3bdccaef151c6ca47921c7bf4f396b7b",
     "url": "/kickback-site/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kickback-site/static/css/2.aa46e993.chunk.css"
   },
   {
-    "revision": "1a1dd2f1bc9aa6db29b0",
+    "revision": "f907af04d0f830bea5bf",
     "url": "/kickback-site/static/css/main.1d7115ea.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kickback-site/static/js/2.2466e2a6.chunk.js.LICENSE"
   },
   {
-    "revision": "1a1dd2f1bc9aa6db29b0",
-    "url": "/kickback-site/static/js/main.24370192.chunk.js"
+    "revision": "f907af04d0f830bea5bf",
+    "url": "/kickback-site/static/js/main.692a754e.chunk.js"
   },
   {
     "revision": "41528a80c7c976cc022f",

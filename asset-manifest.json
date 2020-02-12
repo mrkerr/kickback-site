@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kickback-site/static/css/main.1d7115ea.chunk.css",
-    "main.js": "/kickback-site/static/js/main.24370192.chunk.js",
-    "main.js.map": "/kickback-site/static/js/main.24370192.chunk.js.map",
+    "main.js": "/kickback-site/static/js/main.692a754e.chunk.js",
+    "main.js.map": "/kickback-site/static/js/main.692a754e.chunk.js.map",
     "runtime-main.js": "/kickback-site/static/js/runtime-main.93406b4d.js",
     "runtime-main.js.map": "/kickback-site/static/js/runtime-main.93406b4d.js.map",
     "static/css/2.aa46e993.chunk.css": "/kickback-site/static/css/2.aa46e993.chunk.css",
     "static/js/2.2466e2a6.chunk.js": "/kickback-site/static/js/2.2466e2a6.chunk.js",
     "static/js/2.2466e2a6.chunk.js.map": "/kickback-site/static/js/2.2466e2a6.chunk.js.map",
     "index.html": "/kickback-site/index.html",
-    "precache-manifest.e9f0e3cb9bce7607cc05dd6f03d95bc3.js": "/kickback-site/precache-manifest.e9f0e3cb9bce7607cc05dd6f03d95bc3.js",
+    "precache-manifest.e69c296544f96838f308b6ea502337bd.js": "/kickback-site/precache-manifest.e69c296544f96838f308b6ea502337bd.js",
     "service-worker.js": "/kickback-site/service-worker.js",
     "static/css/2.aa46e993.chunk.css.map": "/kickback-site/static/css/2.aa46e993.chunk.css.map",
     "static/css/main.1d7115ea.chunk.css.map": "/kickback-site/static/css/main.1d7115ea.chunk.css.map",
@@ -31,6 +31,6 @@
     "static/css/2.aa46e993.chunk.css",
     "static/js/2.2466e2a6.chunk.js",
     "static/css/main.1d7115ea.chunk.css",
-    "static/js/main.24370192.chunk.js"
+    "static/js/main.692a754e.chunk.js"
   ]
 }
