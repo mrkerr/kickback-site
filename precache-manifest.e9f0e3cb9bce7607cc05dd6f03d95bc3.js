@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a44277a988c5faceab081db7ae9ec48",
+    "revision": "a4ab7a3d1b881c3f5d67dd421d4b7d01",
     "url": "/kickback-site/index.html"
   },
   {
-    "revision": "5fd5cbfa3901b71b3ea8",
+    "revision": "d9f37af674d03919ffd6",
     "url": "/kickback-site/static/css/2.aa46e993.chunk.css"
   },
   {
-    "revision": "4fa311a474351ee7fd2a",
+    "revision": "1a1dd2f1bc9aa6db29b0",
     "url": "/kickback-site/static/css/main.1d7115ea.chunk.css"
   },
   {
-    "revision": "5fd5cbfa3901b71b3ea8",
-    "url": "/kickback-site/static/js/2.8df375ec.chunk.js"
+    "revision": "d9f37af674d03919ffd6",
+    "url": "/kickback-site/static/js/2.2466e2a6.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/kickback-site/static/js/2.8df375ec.chunk.js.LICENSE"
+    "url": "/kickback-site/static/js/2.2466e2a6.chunk.js.LICENSE"
   },
   {
-    "revision": "4fa311a474351ee7fd2a",
-    "url": "/kickback-site/static/js/main.3e7875b7.chunk.js"
+    "revision": "1a1dd2f1bc9aa6db29b0",
+    "url": "/kickback-site/static/js/main.24370192.chunk.js"
   },
   {
     "revision": "41528a80c7c976cc022f",
