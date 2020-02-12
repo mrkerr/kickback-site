@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/kickback-site/static/css/main.55bd6c5e.chunk.css",
-    "main.js": "/kickback-site/static/js/main.2d93294e.chunk.js",
-    "main.js.map": "/kickback-site/static/js/main.2d93294e.chunk.js.map",
+    "main.css": "/kickback-site/static/css/main.1d7115ea.chunk.css",
+    "main.js": "/kickback-site/static/js/main.3e7875b7.chunk.js",
+    "main.js.map": "/kickback-site/static/js/main.3e7875b7.chunk.js.map",
     "runtime-main.js": "/kickback-site/static/js/runtime-main.93406b4d.js",
     "runtime-main.js.map": "/kickback-site/static/js/runtime-main.93406b4d.js.map",
     "static/css/2.aa46e993.chunk.css": "/kickback-site/static/css/2.aa46e993.chunk.css",
-    "static/js/2.ea7851c7.chunk.js": "/kickback-site/static/js/2.ea7851c7.chunk.js",
-    "static/js/2.ea7851c7.chunk.js.map": "/kickback-site/static/js/2.ea7851c7.chunk.js.map",
+    "static/js/2.8df375ec.chunk.js": "/kickback-site/static/js/2.8df375ec.chunk.js",
+    "static/js/2.8df375ec.chunk.js.map": "/kickback-site/static/js/2.8df375ec.chunk.js.map",
     "index.html": "/kickback-site/index.html",
-    "precache-manifest.9ef6fea4720d80a7b9ba567631ef91fb.js": "/kickback-site/precache-manifest.9ef6fea4720d80a7b9ba567631ef91fb.js",
+    "precache-manifest.433d6811eb186fa2677f0c5d42c2b8d3.js": "/kickback-site/precache-manifest.433d6811eb186fa2677f0c5d42c2b8d3.js",
     "service-worker.js": "/kickback-site/service-worker.js",
     "static/css/2.aa46e993.chunk.css.map": "/kickback-site/static/css/2.aa46e993.chunk.css.map",
-    "static/css/main.55bd6c5e.chunk.css.map": "/kickback-site/static/css/main.55bd6c5e.chunk.css.map",
-    "static/js/2.ea7851c7.chunk.js.LICENSE": "/kickback-site/static/js/2.ea7851c7.chunk.js.LICENSE",
+    "static/css/main.1d7115ea.chunk.css.map": "/kickback-site/static/css/main.1d7115ea.chunk.css.map",
+    "static/js/2.8df375ec.chunk.js.LICENSE": "/kickback-site/static/js/2.8df375ec.chunk.js.LICENSE",
     "static/media/bg-video.mp4": "/kickback-site/static/media/bg-video.9dfc26d3.mp4",
     "static/media/mockup1.png": "/kickback-site/static/media/mockup1.cc429bd9.png",
     "static/media/mockup2.png": "/kickback-site/static/media/mockup2.513d8f8e.png",
@@ -23,13 +23,14 @@
     "static/media/mockup6.png": "/kickback-site/static/media/mockup6.f5d995f9.png",
     "static/media/mockup7.png": "/kickback-site/static/media/mockup7.91b89da2.png",
     "static/media/mockup8.png": "/kickback-site/static/media/mockup8.ac3e7a11.png",
+    "static/media/mockup9.png": "/kickback-site/static/media/mockup9.c0b633ed.png",
     "static/media/sam-train-pic.jpg": "/kickback-site/static/media/sam-train-pic.9ee42c0b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.93406b4d.js",
     "static/css/2.aa46e993.chunk.css",
-    "static/js/2.ea7851c7.chunk.js",
-    "static/css/main.55bd6c5e.chunk.css",
-    "static/js/main.2d93294e.chunk.js"
+    "static/js/2.8df375ec.chunk.js",
+    "static/css/main.1d7115ea.chunk.css",
+    "static/js/main.3e7875b7.chunk.js"
   ]
 }

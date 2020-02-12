@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e3a675a421ac4b255a7ade6bd036b41",
+    "revision": "1a44277a988c5faceab081db7ae9ec48",
     "url": "/kickback-site/index.html"
   },
   {
-    "revision": "67095a1bb59f701cf08e",
+    "revision": "5fd5cbfa3901b71b3ea8",
     "url": "/kickback-site/static/css/2.aa46e993.chunk.css"
   },
   {
-    "revision": "cad544d6d2ed0eb52167",
-    "url": "/kickback-site/static/css/main.55bd6c5e.chunk.css"
+    "revision": "4fa311a474351ee7fd2a",
+    "url": "/kickback-site/static/css/main.1d7115ea.chunk.css"
   },
   {
-    "revision": "67095a1bb59f701cf08e",
-    "url": "/kickback-site/static/js/2.ea7851c7.chunk.js"
+    "revision": "5fd5cbfa3901b71b3ea8",
+    "url": "/kickback-site/static/js/2.8df375ec.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/kickback-site/static/js/2.ea7851c7.chunk.js.LICENSE"
+    "url": "/kickback-site/static/js/2.8df375ec.chunk.js.LICENSE"
   },
   {
-    "revision": "cad544d6d2ed0eb52167",
-    "url": "/kickback-site/static/js/main.2d93294e.chunk.js"
+    "revision": "4fa311a474351ee7fd2a",
+    "url": "/kickback-site/static/js/main.3e7875b7.chunk.js"
   },
   {
     "revision": "41528a80c7c976cc022f",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ac3e7a1115392fbc5f0e35e687b86605",
     "url": "/kickback-site/static/media/mockup8.ac3e7a11.png"
+  },
+  {
+    "revision": "c0b633ed2bb34568343a91fc97175144",
+    "url": "/kickback-site/static/media/mockup9.c0b633ed.png"
   },
   {
     "revision": "9ee42c0b1fced6100c87213e3318231e",
